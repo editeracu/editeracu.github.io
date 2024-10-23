@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://editeracu.github.io/editeracu.editeracu
+Sitemap: https://editeracu.github.io/app/editeracu.editeracu
+Sitemap: https://editeracu.github.io/assets/editeracu.editeracu
+Sitemap: https://editeracu.github.io/css/editeracu.editeracu
+Sitemap: https://editeracu.github.io/includes/editeracu.editeracu
+Sitemap: https://editeracu.github.io/item/editeracu.editeracu
+Sitemap: https://editeracu.github.io/src/editeracu.editeracu
